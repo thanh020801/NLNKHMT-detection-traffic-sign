@@ -7,6 +7,7 @@ Scripts/
 /data/
 /myvenv/
 /full_size_data/
+/origin_data/
 .pyenv/
 .myvenv/lib
 /runs/
